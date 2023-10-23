@@ -1,0 +1,17 @@
+.button-down{
+    background-color: olivedrab;
+    border: 1px solid olivedrab;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.nadpis{
+    margin-bottom: 10px;
+}
+
+.all-odpovede{
+    margin-bottom: 10px;
+}
