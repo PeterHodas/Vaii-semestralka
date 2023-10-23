@@ -2,3 +2,12 @@
     text-decoration: none;
     color: inherit;
 }
+
+.btn-logout{
+    background-color: olivedrab;
+    border: 1px solid olivedrab;
+}
+
+.link :hover{
+    color: olivedrab;
+}
