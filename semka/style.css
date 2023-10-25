@@ -4,6 +4,16 @@ body {
     background-repeat: no-repeat;
 }
 
+btn_green {
+    text-decoration: none;
+    color: inherit;
+    background-color: deeppink;
+}
+
+btn-dizaj {
+    background-color: deeppink;
+}
+
 .form-all {
     position: absolute;
     top: 50%;
